@@ -1,0 +1,123 @@
+{
+  "project_info": {
+    "project_number": "12345",
+    "firebase_url": "https://aapt2-bug-repro-2.firebaseio.com",
+    "project_id": "aapt2-bug-repro-2",
+    "storage_bucket": "aapt2-bug-repro-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12344:android:123441251",
+        "android_client_info": {
+          "package_name": "org.coffeetrain.aapt2manifestbugrepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "omg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.coffeetrain.aapt2manifestbugrepro",
+            "certificate_hash": "nah"
+          }
+        },
+        {
+          "client_id": "omfg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.coffeetrain.aapt2manifestbugrepro",
+            "certificate_hash": "nah"
+          }
+        },
+        {
+          "client_id": "omfgwtfbbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "nah"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "tacos.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.omg.mobile",
+                "app_store_id": "1234"
+              }
+            },
+            {
+              "client_id": "burritos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123555:android:91919",
+        "android_client_info": {
+          "package_name": "org.coffeetrain.aapt2manifestbugrepro.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "tortillas.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.coffeetrain.aapt2manifestbugrepro.debug",
+            "certificate_hash": "12315"
+          }
+        },
+        {
+          "client_id": "youvegotmail.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "nahbronah"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "beers.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nah.nah",
+                "app_store_id": "191919"
+              }
+            },
+            {
+              "client_id": "salsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

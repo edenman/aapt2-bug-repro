@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+  <application
+      android:name="org.coffeetrain.aapt2manifestbugrepro.MyDebugReproApp"
+      android:label="AAPT2 Manifest Bug Repro Debug"
+      tools:replace="android:name,android:label"
+      />
+</manifest>
